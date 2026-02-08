@@ -4,5 +4,3 @@ numpy
 pandas
 joblib
 imbalanced-learn
-pickle
-seaborn
